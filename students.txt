@@ -40,4 +40,11 @@ Gender: Male
 Department: Information Technology
 Level: 4
 GPA: 3.30
+ID: 1006
+Name: Xamse Ibrahim
+Age: 25
+Gender: Male
+Department: engineering
+Level: 4
+GPA: 3.30
 
