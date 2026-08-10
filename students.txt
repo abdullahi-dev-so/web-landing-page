@@ -1,0 +1,43 @@
+STUDENT DATA
+============
+
+ID: 1001
+Name: Ahmed Ali
+Age: 20
+Gender: Male
+Department: Computer Science
+Level: 2
+GPA: 3.45
+
+ID: 1002
+Name: Amina Hassan
+Age: 21
+Gender: Female
+Department: Information Technology
+Level: 3
+GPA: 3.72
+
+ID: 1003
+Name: Mohamed Omar
+Age: 22
+Gender: Male
+Department: Software Engineering
+Level: 4
+GPA: 3.18
+
+ID: 1004
+Name: Fatima Abdullahi
+Age: 19
+Gender: Female
+Department: Computer Science
+Level: 2
+GPA: 3.60
+
+ID: 1005
+Name: Yusuf Ibrahim
+Age: 23
+Gender: Male
+Department: Information Technology
+Level: 4
+GPA: 3.30
+
