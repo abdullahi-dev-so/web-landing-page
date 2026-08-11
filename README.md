@@ -9,4 +9,4 @@ A simple and responsive landing page built with HTML and CSS.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdullahi-dev-so/ web-landing-page.git
+git clone https://github.com/abdullahi-dev-so/web-landing-page.git
